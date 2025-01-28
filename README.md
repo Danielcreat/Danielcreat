@@ -27,15 +27,3 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
 
----
-
-**Como usar:**
-1. Crie um repositório chamado `SeuUsuario/SeuUsuario` no GitHub.
-2. Cole esse código no arquivo `README.md`.
-3. Substitua "SeuUsuario" e links pelos seus dados.
-
-Se precisar de ajustes ou ajuda para configurar, é só avisar!
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
