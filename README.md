@@ -4,7 +4,7 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 
 ## 🚀 Tecnologias e Ferramentas:
 - **Front-end:** HTML5, CSS3, JavaScript  
-- **Back-end:** Python (em aprendizado)  
+- **Back-end:** Python, JavaScript
 - **Ferramentas:** Node.js, Visual Studio Code  
 
 ## 🌱 O que estou aprendendo:
