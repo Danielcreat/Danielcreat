@@ -22,16 +22,8 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 ---
 
 ## 🔗 Vamos nos conectar?
-- [Meu LinkedIn](https://www.linkedin.com/in/seu-usuario/) *(insira seu link)*  
-- [Meu Portfólio](https://seuportfolio.com/) *(se tiver)*  
+- [Meu LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- [Meu Portfólio](https://seuportfolio.com/)
 
 📌 *"Transformar ideias em soluções digitais é o que me motiva todos os dias!"*  
 
----
-
-### Como usar:
-1. Crie um repositório chamado `SeuUsuario/SeuUsuario` no GitHub.  
-2. Cole esse código no arquivo `README.md`.  
-3. Substitua "SeuUsuario" pelo seu nome de usuário no GitHub.  
-
-Se precisar de mais ajustes ou ajuda para configurar, é só avisar!
