@@ -17,7 +17,7 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Danielcreat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 
 ---
