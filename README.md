@@ -13,7 +13,9 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 - Melhoria contínua no design e na experiência do usuário.  
 
 ## 📊 Estatísticas do GitHub:
-![Barras de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=radical)  
+![Estatísticas gerais](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
 
 ---
 
