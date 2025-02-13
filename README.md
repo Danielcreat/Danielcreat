@@ -13,12 +13,9 @@ Sou um desenvolvedor em formação, focado em **Full Stack** e **Design**. Atual
 - Melhoria contínua no design e na experiência do usuário.  
 
 ## 📊 Estatísticas do GitHub:
-![Estatísticas gerais](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)  
+![Estatísticas gerais](https://github-readme-stats.vercel.app/api?username=Danielcreat&show_icons=true&theme=radical)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)  
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Danielcreat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielcreat&layout=compact&theme=radical)  
 
 ---
 
